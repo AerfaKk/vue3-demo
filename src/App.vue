@@ -104,6 +104,7 @@
     height: 50px;
     margin-right: 20px;
     margin-top: 5px;
+    cursor: pointer;
   }
   nav a {
     text-decoration: none;
