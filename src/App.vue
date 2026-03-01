@@ -7,7 +7,7 @@
       <RouterLink :to="{ path: '/cgq', hash: '#router_view' }" active-class="active">传感器</RouterLink>
       <RouterLink :to="{ path: '/cgq', hash: '#router_view' }" active-class="active">传感器</RouterLink>
       <RouterLink :to="{ path: '/cgq', hash: '#router_view' }" active-class="active">传感器</RouterLink>
-      <a href="">服务与支持</a>
+      <a href="#">服务与支持</a>
       <el-input
         v-model="search"
         style="width: 200px;
